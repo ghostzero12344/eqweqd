@@ -1,11 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="989662" tvg-name="Um Homem Diferente (2024)" tvg-logo="https://image.tmdb.org/t/p/w500/lZZKTEvo92u1J5pm7QoEA5yN3du.jpg",Um Homem Diferente
-https://be2719.rcr22.ams01.cdn255.com/hls2/01/09006/t8z07nkvlvls_h/master.m3u8?t=_Yj6hQ72VupSWW1jNBdzUmFePgAcEaLppeVBaZm73sQ&s=1748147737&e=10800&f=45062365&srv=22&asn=26599&sp=4000&p=
-#EXTINF:-1 tvg-id="984185" tvg-name="Ele é Um Gato! (2023)" tvg-logo="https://image.tmdb.org/t/p/w500/ApizJWkn59XsmRD9ZQXMrks5gpg.jpg",Ele é Um Gato!
-https://fin-3dg-b1.cdn255.com/hls2/05/09009/tn1p2o5b2ojd_h/master.m3u8?t=P-riL7M0AxmTe8MMe57w1Ol7HZKnOFN6CARMRSelU6w&s=1748147743&e=10800&f=45062378&srv=1050&asn=26599&sp=4000&p=
-#EXTINF:-1 tvg-id="9728" tvg-name="Sexta-Feira 13 - Parte 3 (1982)" tvg-logo="https://image.tmdb.org/t/p/w500/9kukTSlgFgXnQGdpcHvHcpTDiUc.jpg",Sexta-Feira 13 - Parte 3
-https://be2719.rcr22.ams01.cdn255.com/hls2/01/03043/mfpceirp3a8v_x/master.m3u8?t=eZmjZAwSY0D5vxg6thPtt2MAP1PR8UChHjE_PoPlphI&s=1748147750&e=10800&f=45062752&srv=28&asn=26599&sp=5500&p=
-#EXTINF:-1 tvg-id="9725" tvg-name="Sexta-Feira 13 - Parte 2 (1981)" tvg-logo="https://image.tmdb.org/t/p/w500/92rGctBMTv4uaSlIBVnhz01kRWL.jpg",Sexta-Feira 13 - Parte 2
-https://be7713.rcr82.waw05.cdn255.com/hls2/02/08859/zttczdh1lzab_x/master.m3u8?t=hGEEWzMrykQ7u1m1qdUry4AF3ULTD_J5iCXSMzXte8I&s=1748147756&e=10800&f=45062709&srv=53&asn=26599&sp=5500&p=
-#EXTINF:-1 tvg-id="869025" tvg-name="Raymond & Ray (2022)" tvg-logo="https://image.tmdb.org/t/p/w500/fdKZmSQHD17JjGUYkluhpttgJRi.jpg",Raymond & Ray
-https://be4235.rcr32.ams02.cdn255.com/hls2/01/02140/dmf7xwp4jt0o_o/master.m3u8?t=Vg7Y8ixx0OxoK7E08zD1eeIhzM0UWqPTAKFDFKyBXXw&s=1748147763&e=10800&f=45063396&srv=28&asn=26599&sp=4000&p=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Uc4Lag.png" group-title="ATUALIZAÇÕES DO DIA", ATUALIZAÇÕES DO DIA 17/03 
+http://0.0.0.0
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/qAEDvwY.jpg" group-title="ATUALIZAÇÕES DO DIA",A Forma da Água - DUB
+https://www.googleapis.com/drive/v3/files/1JMsCSCuAJMNxcGzWNcdiFJjIciR_eGq5?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dx5mHbs77nEl1kuhEyvEjT1wtFl.jpg" group-title="ATUALIZAÇÕES DO DIA",Pantera Negra
+http://link4.ntcdn.us/lanadelrey/movies/panteranegra-dub-720p.mp4?cdn_hash=6a8b11e6d25aebf95747c075edcd8717&cdn_creation_time=1521319835&cdn_ttl=14440
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2//t3M7PW2skoitpWVu7i4GiepGkK1.jpg" group-title="ATUALIZAÇÕES DO DIA",Passado Roubado
+https://www.googleapis.com/drive/v3/files/1dPHmmyoY9wAPAobeY2q6lAVKkmzwyHdY?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnXaUxdKD2t1B74cutWA5rjBLgD.jpg" group-title="ATUALIZAÇÕES DO DIA",Paddington 2
+https://www.googleapis.com/drive/v3/files/1ulKjnQQ5CaWrjCqqZKUtpTa0UGlG0-r0?key=AIzaSyAHfTjunuAnmyVgGADZo4HD4XN2YAO0MnQ&alt=media
